@@ -1,4 +1,3 @@
-# keyboards/admin_keyboards.py
 """
 Admin Keyboards for HeroSMS Bot
 Contains all admin panel keyboard layouts
